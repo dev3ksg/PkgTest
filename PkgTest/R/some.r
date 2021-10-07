@@ -1,0 +1,4 @@
+printPi <- function()
+{
+print(pi)
+}
